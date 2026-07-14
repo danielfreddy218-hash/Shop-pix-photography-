@@ -1,2 +1,1 @@
-# Shop-pix-photography-
-Photography works 
+Shop-pix-photography
